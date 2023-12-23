@@ -1,12 +1,13 @@
 [submodule "bop_toolkit"]
 	path = bop_toolkit
-	url = git@github.com:ywchao/bop_toolkit.git
+	url = https://github.com/ywchao/bop_toolkit.git
 	branch = dex-ycb-toolkit
 [submodule "freihand"]
 	path = freihand
-	url = git@github.com:ywchao/freihand.git
+	url = https://github.com/ywchao/freihand.git
 	branch = dex-ycb-toolkit
 [submodule "manopth"]
 	path = manopth
-	url = git@github.com:hassony2/manopth.git
+	url = https://github.com/hassony2/manopth.git
 	branch = master
+
